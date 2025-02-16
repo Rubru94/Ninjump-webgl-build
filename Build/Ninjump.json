@@ -1,0 +1,14 @@
+{
+"companyName": "Puzzles",
+"productName": "Ninjump",
+"dataUrl": "Ninjump.data.unityweb",
+"wasmCodeUrl": "Ninjump.wasm.code.unityweb",
+"wasmFrameworkUrl": "Ninjump.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Ninjump.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
